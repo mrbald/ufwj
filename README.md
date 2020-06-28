@@ -1,9 +1,6 @@
 # ufwj
 Java Building Blocks
 
-[![Build Status](https://travis-ci.org/mrbald/ufwj.svg?branch=master)](https://travis-ci.org/mrbald/ufwj)
-[![HitCount](_http://hits.dwyl.io/mrbald/ufwj.svg)](http://hits.dwyl.io/mrbald/ufwj)
-
 ## Featured Items
 
 ### [WatermarkQueue](base/src/main/java/net/bobah/ufwj/queue/WatermarkQueue.java)
